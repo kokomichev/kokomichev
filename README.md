@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kokomichev
+- 👀 I’m interested in Python, C#, Java, JavaScript Software Dev.
+- 🌱 I’m currently learning Phyton
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me kokomichevwork@abv.bg, www.linkedin.com/in/kostadin-michev-work
